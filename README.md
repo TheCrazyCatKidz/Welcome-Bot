@@ -9,6 +9,8 @@ Once you are sure this is all here run:
 ```
 
 The VirusTotal scan on the DOWNLOAD ME.zip to prove it is not malicious:
+
+
 ![image](https://user-images.githubusercontent.com/79745507/147873379-60b0c469-2136-4ffa-9ade-604a7e7d294d.png)
 
 
