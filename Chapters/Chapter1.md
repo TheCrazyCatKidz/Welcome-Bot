@@ -26,4 +26,6 @@ This is the only bit of coding required.
 **2.** Where it says **const clientid =**, you would want too proceed to remove everything past **=**.
        After the **=**, you would want to put once space then in quotation marks paste your client d.
        Like so:
+
+# STILL NOT FULL MADE, WORK IN PROGRESS
    
