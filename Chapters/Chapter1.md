@@ -2,7 +2,7 @@
 
 # Step 1: Download your .zip file
 
-To download your .zip file head to the main centre of this repo or use this hyperlink [here](https://github.com/TheCrazyCatKidz/Welcome-Bot/raw/main/DOWNLOAD%20ME.zip).
+To download your .zip file head to the main centre of this repo, click on **DOWNLOAD ME.zip** then click the **Download** button or use this hyperlink [here](https://github.com/TheCrazyCatKidz/Welcome-Bot/raw/main/DOWNLOAD%20ME.zip).
 
 # Step 2: Extract your .zip file
 
