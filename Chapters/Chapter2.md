@@ -53,3 +53,4 @@ That is all for this chapter!
 
 # Next Chapter: [Click Me](https://github.com/TheCrazyCatKidz/Welcome-Bot/blob/main/Chapters/Chapter3.md)
    
+Made for the purpose of [PS.XYZ](https://platservices.xyz).
