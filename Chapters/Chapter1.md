@@ -4,6 +4,8 @@
 
 To download your .zip file head to the main centre of this repo, click on **DOWNLOAD ME.zip** then click the **Download** button or use this hyperlink [here](https://github.com/TheCrazyCatKidz/Welcome-Bot/raw/main/DOWNLOAD%20ME.zip).
 
+This .zip file is safe. Feel free to run a [VirusTotal](https://www.virustotal.com/gui/home/upload) or look at the [pre-made result](https://www.virustotal.com/gui/url/6806d6a8c7a7de0612286e640e1cf78bebbbc8a3f3ecba217aff7019db9e125a/detection) we already did.
+
 # Step 2: Extract your .zip file
 
 Using your unzipper of your choice, unzip the .zip contents into a folder.
