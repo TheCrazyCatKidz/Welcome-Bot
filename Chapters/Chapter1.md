@@ -13,11 +13,11 @@ Using your unzipper of your choice, unzip the .zip contents into a folder.
 # Step 3: Install required dependencies
 
 Assuming you have [Node.JS](https://nodejs.org/en/) installed, open your local terminal and go to your folder using terminal commands (using cd most of the time).
-After this run **npm i** since the package-lock.json will take care of installing for you.
+After this run **npm install** since the package-lock.json will take care of installing for you.
 
 # Step 4: Running your stripped down bot
 
-To run your bot, assuming your terminal is in the folder where the bot is located, run **node .** and fill out the data the bot requests. Most of the time after inviting the bot to your server with the link you were given, you need to press CTRL+C to stop the bot and re run **node .**
+To run your bot, assuming your terminal is in the folder where the bot is located, run **node index.js** and fill out the data the bot requests. Most of the time after inviting the bot to your server with the link you were given, you need to press CTRL+C to stop the bot and re run **node index.js**
 
 That is all for this chapter!
 
