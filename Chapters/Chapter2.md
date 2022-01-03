@@ -49,7 +49,7 @@ If it starts up and crashes, this means one of the following:
        - You have inputted one of the ids incorrectly from Step 3
        - You havent saved your file
 
-Thats it for this chapter!
+That is all for this chapter!
 
 # Next Chapter: [Click Me](https://github.com/TheCrazyCatKidz/Welcome-Bot/blob/main/Chapters/Chapter3.md)
    
