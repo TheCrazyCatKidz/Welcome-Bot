@@ -8,7 +8,7 @@ This .zip file is safe. Feel free to run a [VirusTotal](https://www.virustotal.c
 
 # Step 2: Extract your .zip file
 
-Using your unzipper of your choice, unzip the .zip contents into a folder.
+Using your unzipper of your choice, unzip the .zip contents into a folder. We advise you use [WinRAR](https://www.win-rar.com/start.html?&L=0) as it is the easiest zip management tool for our projects **(NOT AN AD)**.
 
 # Step 3: Install required dependencies
 
