@@ -18,8 +18,12 @@ Look for this selection of code from your **index.js** file.
 This is the only bit of coding required.
 
 **1.** Where it says **const token =**, you would want to proceed to remove everything past **=**. 
-   After the **=**, you would want to put one space then in quotation marks paste your bot token. 
-   Like so:
+       After the **=**, you would want to put one space then in quotation marks paste your bot token. 
+       Like so:
 
    ![image](https://user-images.githubusercontent.com/79745507/147965038-c4ae7b58-78f0-4eed-800a-18b368db03a5.png)
 
+**2.** Where it says **const clientid =**, you would want too proceed to remove everything past **=**.
+       After the **=**, you would want to put once space then in quotation marks paste your client d.
+       Like so:
+   
