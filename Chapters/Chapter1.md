@@ -1,4 +1,4 @@
-# Chapter 1 - Making your bot store the token and other data neeeded.
+# Chapter 2 - Making your bot store the token and other data neeeded.
 
 Welcome to Chapter 1!
 This is where we will teach you how to get rid of those startup inputs for your token, guild id, client id and welcome channel.
