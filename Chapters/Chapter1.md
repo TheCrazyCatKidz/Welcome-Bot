@@ -17,6 +17,6 @@ After this run **npm i** since the package-lock.json will take care of installin
 
 To run your bot, assuming your terminal is in the folder where the bot is located, run **node .** and fill out the data the bot requests. Most of the time after inviting the bot to your server with the link you were given, you need to press CTRL+C to stop the bot and re run **node .**
 
-Thats all for this chapter!
+That is all for this chapter!
 
 # Next Chapter: [Click Me](https://github.com/TheCrazyCatKidz/Welcome-Bot/blob/main/Chapters/Chapter2.md)
