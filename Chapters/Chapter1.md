@@ -17,7 +17,7 @@ Look for this selection of code from your **index.js** file.
 
 This is the only bit of coding required.
 
-1. Where it says **const token =**, you would want to proceed to remove everything past **=**. 
+**1.** Where it says **const token =**, you would want to proceed to remove everything past **=**. 
    After the **=**, you would want to put one space then in quotation marks paste your bot token. 
    Like so:
 
